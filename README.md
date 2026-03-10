@@ -97,6 +97,19 @@ In the future, a more challenging baseline based on the Vegas spread will be add
 
 ![Prediction Engine Performance Metrics](images/predictor_performance.png)
 
+## Skill Helper (OpenClaw / Polymarket)
+
+If you are looking for the Codex skill installer helper added for OpenClaw/Polymarket setup, run from the repo root:
+
+```sh
+bash install_codex_skills.sh
+```
+
+Files:
+- `install_codex_skills.sh` (root entrypoint)
+- `scripts/install_codex_skills.sh` (implementation)
+- `docs/openclaw_polymarket_skill_note.md` (Chinese note)
+
 ## Installation and Usage
 
 ### Step 1: Clone the Repository
